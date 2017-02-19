@@ -4,3 +4,4 @@ this is myfile
 change myfile
 
 this is issue2 change
+这个是issue3的命令
