@@ -1,1 +1,3 @@
 this is myfile
+
+这个是issue3的命令
